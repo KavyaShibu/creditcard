@@ -1,2 +1,2 @@
-# creditcard
-creditcard fraud detation--logistic regression
+# credit card
+credit card fraud detation--logistic regression
